@@ -8,11 +8,11 @@
     
     2. Cutomer Performance Report filtered for India market [Customer Performance Report India.pdf](https://github.com/Ayush-0906/Excel-Sales-Analytics/blob/f994cafd528c2d4ac439550e671300a2bab15bce/Customer%20Performance%20Report%20India.pdf)
 
-    3. To conduct a comprehensive comparison between Actual Sales vs the Target for financial year 2021 
+    3. To conduct a comprehensive comparison between Actual Sales vs the Target for financial year 2021 [Target Performance Report.pdf](https://github.com/Ayush-0906/Excel-Sales-Analytics/blob/4057f28097e247b99d1fa35c8dc99872e5d202ae/Target%20Performance%20Report.pdf)
 
 - **Aim of Sales Data Analysis:** To look out and Research for the potential growth and profit markets and find out the markets that are behind the estimated target.
 
-- KPIs - Net sales for financial year 2021 vs Target.
+-**KPIs** - Net sales for financial year 2021 vs Target.
 
 - **Significance of the Reports:** Performance Evaluation of Customers, facilitate customer discount strategies, and identifing trends and potential growth opportune markets.
 
@@ -21,8 +21,10 @@
 
 - **Objective:** 
 
-    **1.** To Create Profit and Loss (P&L) report by Financial Year 
-   **2.** To Create Profit and Loss (P&L) report by Months 
+    1. To Create Profit and Loss (P&L) report by Financial Year [P&L Report FY.pdf](https://github.com/Ayush-0906/Excel-Sales-Analytics/blob/4057f28097e247b99d1fa35c8dc99872e5d202ae/P%26L%20Report%20FY.pdf)
+    
+    2. To Create Profit and Loss (P&L) report by Months[P&L Report FY Month.pdf](https://github.com/Ayush-0906/Excel-Sales-Analytics/blob/4057f28097e247b99d1fa35c8dc99872e5d202ae/P%26L%20Report%20FY%20Month.pdf) 
+    
 
 - **Aim of Sales and Finance Analysis:** Evaluation of financial performance, Support decision-making accordingly, and facilitate an effective communication with stakeholders and policymakers.
 
