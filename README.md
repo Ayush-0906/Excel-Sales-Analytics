@@ -4,7 +4,7 @@
 
 - **Project Objective:** 
 
-    1. To Create a Customer Performance Report for Sales Team for the given financial years https://github.com/Ayush-0906/Excel-Sales-Analytics/blob/4057f28097e247b99d1fa35c8dc99872e5d202ae/Customer%20Performance%20Report.pdf
+    1. To Create a Customer Performance Report for Sales Team for the given financial year [Customer Performance Report.pdf](https://github.com/Ayush-0906/Excel-Sales-Analytics/blob/4057f28097e247b99d1fa35c8dc99872e5d202ae/Customer%20Performance%20Report.pdf)
     
     2. Cutomer Performance Report filtered for India market [Customer Performance Report India.pdf](https://github.com/Ayush-0906/Excel-Sales-Analytics/blob/f994cafd528c2d4ac439550e671300a2bab15bce/Customer%20Performance%20Report%20India.pdf)
 
