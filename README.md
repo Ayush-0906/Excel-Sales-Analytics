@@ -6,9 +6,9 @@
 
     1. To Create a Customer Performance Report for Sales Team for the given financial years 
     
-    2. Cutomer Performance Report filtered for India market Customer Performance Report India.pdf
+    2. Cutomer Performance Report filtered for India market [Customer Performance Report India.pdf](https://github.com/Ayush-0906/Excel-Sales-Analytics/blob/f994cafd528c2d4ac439550e671300a2bab15bce/Customer%20Performance%20Report%20India.pdf)
 
-    3. To conduct a comprehensive comparison between Actual Sales vs the Target for financial year 2021 _[market performance and sales targets](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_
+    3. To conduct a comprehensive comparison between Actual Sales vs the Target for financial year 2021 
 
 - **Aim of Sales Data Analysis:** To look out and Research for the potential growth and profit markets and find out the markets that are behind the estimated target.
 
@@ -21,9 +21,8 @@
 
 - **Objective:** 
 
-    **1.** To Create Profit and Loss (P&L) report by Financial Year _[Fiscal Year](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)_.
-
-   **2.** To Create Profit and Loss (P&L) report by Months _[Markets](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Markets.pdf)_
+    **1.** To Create Profit and Loss (P&L) report by Financial Year 
+   **2.** To Create Profit and Loss (P&L) report by Months 
 
 - **Aim of Sales and Finance Analysis:** Evaluation of financial performance, Support decision-making accordingly, and facilitate an effective communication with stakeholders and policymakers.
 
